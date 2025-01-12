@@ -1,0 +1,96 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+env/
+venv/
+ENV/
+venv.bak/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Pytest and test coverage
+.coverage
+*.cover
+*.py,cover
+.hypothesis/
+.tox/
+.nox/
+.cache/
+coverage.xml
+nosetests.xml
+pytest_cache/
+htmlcov/
+
+# MyPy type checker
+.mypy_cache/
+
+# pyright type checker
+.pyright/
+
+# VS Code
+.vscode/
+
+# Pycharm
+.idea/
+
+# Local environment files
+.env
+*.secret
+
+# Logs
+*.log
+*.out
+*.err
+
+# Temporary files
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Compiled extensions
+*.so
+*.pyd
+*.dll
+
+# MacOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# SQLite database
+*.sqlite3
+
+# Flask instance folder
+instance/
+
+# Static and media files
+staticfiles/
+media/
+assets/*

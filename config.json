@@ -1,0 +1,10 @@
+{
+    "_comment": "Amount is in vs_currency. stop_loss and take_profit are in %. mode can be of type GAINING or LOSING",
+    "amount": 20,
+    "stop_loss": 0,
+    "take_profit": 0,
+    "bot_frequency_in_seconds": 10,
+    "vs_currency": "USDT",
+    "number_of_assets": 5,
+    "mode" : "GAINING"
+}
