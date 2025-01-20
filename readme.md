@@ -13,3 +13,5 @@ This is a Python-based cryptocurrency trading bot designed to automate trading f
 
 ## Limitations
 Currently, the take profit and stop loss checks are performed once per bot cycle, which could lead to delays in responding to market changes. To improve this, a separate thread could be introduced for monitoring these conditions independently of the buy logic, allowing faster reactions in volatile markets. Additionally, the bot currently lacks a test mode, but this could be considered for future updates. Always ensure your config.json aligns with your strategy and risk tolerance, and trade responsibly.
+
+Looking for a no-code crypto trading bot solution? Check out [crypto trading bot platform Aesir](https://aesircrypto.com)
